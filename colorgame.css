@@ -1,0 +1,57 @@
+body {
+    background-color: #0a0a0a;
+}
+
+.square {
+    padding-bottom: 240px;
+    float :left;
+    width: 30%;
+    margin : 1.66%;
+    background-color: #070148;
+    border-radius: 25px;
+    transition: all 0.5s;
+}
+
+#jumbo {
+    background: #3b3b3b;
+    height: 30%;
+    color: white;
+    text-align-last:  center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Major Mono Display', monospace;
+    margin-bottom: 0px;
+    transition: all 0.5s;
+    
+}
+
+#h {
+    font-size: 3.0em;
+}
+
+#dis {
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 20px;
+    
+}
+
+#hardlevel{
+    background: #3b3b3b ;
+    color: aliceblue;
+}
+
+
+button {
+    border: none;
+    background: none;
+    letter-spacing: 1px;
+    transition: all 0.5s;
+}
+
+button:hover{
+    background: #3b3b3b ;
+    color: aliceblue;
+    
+}
